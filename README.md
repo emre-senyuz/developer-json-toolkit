@@ -41,7 +41,8 @@ JSON uses native JavaScript parsing semantics: duplicate keys retain the last va
 
 ## Screenshot
 
-_Screenshot placeholder: add `docs/screenshot.png` showing the desktop workbench with sample input and formatted output._
+<img width="1895" height="905" alt="image" src="https://github.com/user-attachments/assets/cc2aab32-f7ac-4d94-b652-8f4ca6db25ca" />
+
 
 ## Scripts
 
